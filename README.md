@@ -14,6 +14,6 @@ This profile is mostly infrastructure for IncentiV: Claude Code skills, automati
 
 ### Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/ivanverzoub)
+- 💼 [LinkedIn](https://linkedin.com/in/aivanverz)
 - 📧 ivan@incentiv.lat
 - 🗓️ [Strategy Session](https://cal.com/aivanverz/strategy-session) (20 min, free)
