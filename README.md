@@ -1,6 +1,6 @@
 # Hi, I'm Ivan Verzoub 👋
 
-I design corporate incentive travel that turns top performers into loyal ones. Founder of IncentiV and Commercial Development Director at AV-BusCom, a 30-year incentive-travel operation.
+I design **President's Club incentive travel** that turns top performers into loyal ones. Founder of IncentiV and Director of Commercial Development at AV-BusCom, a 30-year incentive-travel operation.
 
 🎯 5 years enterprise tech sales: Oracle (PMS/POS), MongoDB, AWS
 
@@ -22,4 +22,4 @@ This profile is mostly infrastructure for IncentiV: Claude Code skills, automati
 
 💼 [LinkedIn](https://linkedin.com/in/aivanverz)
 📧 ivan@incentiv.lat
-🗓️ [Strategy Session (20 min, free)](https://cal.com/aivanverz/strategy-session)
+🗓️ [Plan Your President's Club (20 min, free)](https://cal.com/aivanverz/strategy-session)
