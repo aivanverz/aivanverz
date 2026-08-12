@@ -1,17 +1,17 @@
-# Hi, I'm Ivan Verzoub 👋
+# Ivan Verzoub
 
-I build **AI content systems** (Claude Code, Whisper, ffmpeg, HyperFrames) that turn the work and life you already have into content that compounds, proven on my own brand first. Founder of IncentiV.
+I reward winners for a living, from both sides.
 
-🎯 5 years enterprise tech sales: Oracle (PMS/POS), MongoDB, AWS
-💰 $7M closed across 7 countries
-🌍 Buenos Aires + Europe · ES / EN / DE
-🏗️ Building [incentiv.lat](https://incentiv.lat), the platform behind IncentiV
-📰 Newsletter: The Lobby, weekly on Substack
+**The trip.** AV Business & Communication has designed incentive travel for companies since 1998, family-run from Buenos Aires. I am a director there.
 
-## What's here
-This profile is mostly infrastructure for IncentiV: Claude Code skills, automation scripts, and public learning artifacts. The commercial work lives at [incentiv.lat](https://incentiv.lat).
+**The credit.** IncentiV is mine: the AI content systems that get winners seen, run on my own work first, in public, every day, across 7 platforms.
 
-## Connect
-💼 [LinkedIn](https://linkedin.com/in/aivanverz)
-📧 ivan@incentiv.lat
-🗓️ [Strategy Session (20 min)](https://cal.com/aivanverz/strategy-session)
+5 years in enterprise tech sales at Oracle, MongoDB and AWS. $7M closed across 7 countries, in three languages. Buenos Aires, ES / EN / DE.
+
+## What is in here
+
+Infrastructure, mostly. Claude Code skills, automation scripts, render pipelines and the public artifacts of learning in the open. The commercial work lives at [incentiv.lat](https://incentiv.lat).
+
+## Where else
+
+[LinkedIn](https://linkedin.com/in/aivanverz) · [The Lobby](https://aivanverz.substack.com), weekly on Substack · ivan@incentiv.lat
